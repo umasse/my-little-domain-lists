@@ -4,7 +4,6 @@ annas-archive.li
 annas-archive.org
 annas-archive.se
 appaudiobooks.com
-archive.org
 audioaz.com
 audiobookbay.is
 audiobooklabs.com
@@ -25,12 +24,10 @@ freecoursesite.com
 freeeducationweb.com
 freemagazines.top
 getcomics.org
-github.com
 goldenaudiobook.com
 hakuneko.download
 hdaudiobooks.com
 hotaudiobooks.com
-itunes.apple.com
 lemmy.dbzer0.com
 liber3.eth.limo
 libgen.is
@@ -72,10 +69,8 @@ tutsnode.net
 w15.mangafreak.net
 www.digitalbook.io
 www.freeclassicaudiobooks.com
-www.gutenberg.org
 www.mangaread.org
 www.myanonamouse.net
 www.pdfdrive.com
 www.storynory.com
-www.urbandictionary.com
 www.urlvoid.com
