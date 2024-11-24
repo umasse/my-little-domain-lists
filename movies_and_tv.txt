@@ -1,7 +1,5 @@
 yoyomovies.net
 a.imagem.app
-apps.apple.com
-archive.org
 asianc.to
 bingemaster.netlify.app
 brocoflix.com
@@ -10,6 +8,9 @@ cataz.to
 cinemadeck.com
 cinemaos-v2.vercel.app
 cinemaunlocked.com
+cineplaytv.netlify.app
+corsflix.us.kg
+cucuflix.xyz
 dashflix.top
 docs.undi.rest
 donkey.to
@@ -24,7 +25,6 @@ flix.smashystream.xyz
 flixhq.click
 fmovies-hd.to
 free-movies.to
-freecinema.live
 freek.to
 fsharetv.co
 gaoqing.fm
@@ -44,7 +44,6 @@ lookmovie2.to
 mapple.tv
 mkvcinemas.cat
 mkvdrama.org
-moviebeamz.com
 movietly.com
 movieuwutv.top
 msearch.vercel.app
@@ -59,7 +58,6 @@ nunflix.org
 onionplay.network
 openstream.thegrass.xyz
 pahe.ink
-play.google.com
 popcornmovies.to
 proxymirrorlookmovie.github.io
 psa.wf
@@ -93,6 +91,7 @@ ww2.m4ufree.com
 ww3.dramanice.video
 www.addic7ed.com
 www.booflix.to
+www.cineby.ru
 www.gstream.uk
 www.opensubtitles.com
 www.opensubtitles.org
