@@ -31,7 +31,6 @@ liber3.eth.limo
 libgen.is
 libgen.st
 manga4life.com
-mangabot.github.io
 mangabuddy.com
 mangadex.org
 mangafire.to
@@ -69,5 +68,3 @@ www.mangaread.org
 www.myanonamouse.net
 www.pdfdrive.com
 www.storynory.com
-www.urbandictionary.com
-www.urlvoid.com
