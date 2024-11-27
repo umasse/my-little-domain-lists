@@ -16,7 +16,6 @@ docs.undi.rest
 donkey.to
 dopebox.to
 dramaday.me
-erynith.github.io
 eztvstatus.org
 eztvx.to
 faragski.com
@@ -59,7 +58,6 @@ onionplay.network
 openstream.thegrass.xyz
 pahe.ink
 popcornmovies.to
-proxymirrorlookmovie.github.io
 psa.wf
 putlocker.pe
 rarefilmm.com
@@ -100,8 +98,6 @@ www.pressplay.top
 www.showboxmovies.net
 www.subtitlecat.com
 www.tvsubs.net
-www.urbandictionary.com
-www.urlvoid.com
 xpwatch-v2.pages.dev
 yassflix.live
 yesmovies.ag
